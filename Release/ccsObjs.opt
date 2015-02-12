@@ -1,0 +1,1 @@
+"./mpu.obj" "./main.obj" "./bt.obj" "../lnk_msp430g2955.cmd" -l"libc.a" 
